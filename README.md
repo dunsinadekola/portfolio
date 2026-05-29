@@ -1,4 +1,4 @@
-# Academic, Researcher, Data Scientist
+# Academic | Researcher  | Data Analyst  | Bird Aficionado
 
 #### Technical Skills: R, ArcGIS, MATLAB
 
@@ -24,5 +24,3 @@
 
 ## Publications
 https://scholar.google.com/citations?hl=en&user=ohonf5AAAAAJ&view_op=list_works&sortby=pubdate
-12. Adekola OE & Meduna AJ (2018). Assessment of Ecotourism Resources in Prof. Afolayan Wildlife Park, Akure, Ondo State, Nigeria. Forest and Forest Products Journal 18:6-14
-13. Owolabi BA., Adekola OE., Eveso JO & Akande HA (2018). Diurnal Patterns of Daily Activities Frequencies of White-Faced Whistling Duck (Dendrocygna Viduata) in an Open Dam in Osogbo, Osun State, Nigeria. Journal of Biodiversity & Endangered Species 6:217 https://doi.org/10.4172/2332-2543.1000217
